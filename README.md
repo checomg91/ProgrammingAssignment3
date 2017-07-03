@@ -6,3 +6,4 @@ This script does the next activities in order to produce a clean and tidy databa
 4. Loads activity abd subject data for each data set.
 5. Merges both datasets.
 6. Creates a tidy dataset that consists of the average (mean) value of each variable.
+7. Produces the tidy dataset.
